@@ -26,7 +26,7 @@ def test_generar_texto_solicitud_no_esta_vacio():
         cedula="0911111111",
         correo="maria@email.com",
         tipo_tramite="Actualización de datos",
-        motivo="Cambio de correo electrónico.",
+        motivo="Cambio de correo electrónico..",
         fecha="05/07/2026"
     )
 

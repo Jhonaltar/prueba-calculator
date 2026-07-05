@@ -26,4 +26,4 @@ jobs:
 
       - name: Ejecutar pruebas
         run: |
-          python -m pytest
+          pytest -m pytest
